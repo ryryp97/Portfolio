@@ -1,0 +1,14 @@
+.link:link {
+    color: black;
+  background-color: transparent;
+  text-decoration: none;
+};
+
+.link:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+
+
