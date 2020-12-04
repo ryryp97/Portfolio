@@ -4,6 +4,8 @@ This repository is an About Me website which also contains a portfolio of web pr
 
 The site can be reached here: [Portfolio](https://ryryp97.github.io/Portfolio/)
 
+![Portfolio](/images/portfolio_webpage.png)
+
 ## Usage
 
 The links in the navigation bar direct to different webpages of the website when clicked on (contact will direct to a page that allows inputs, portfolio directs to a page with photos of me and my family, projects directs to a page with websites I have made, and about directs to the home page).
